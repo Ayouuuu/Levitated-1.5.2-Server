@@ -1,13 +1,13 @@
 {
-  "triumph:levitated/end/end_matter": {
+  "triumph:levitated/resources/end_coal": {
     "criteria": {
-      "hasEndMatter": "2021-01-21 19:52:04 +0800"
+      "hasEndCoal": "2021-01-22 00:43:41 +0800"
     },
     "done": true
   },
-  "triumph:levitated/end/info": {
+  "triumph:levitated/end/chorus_fruit": {
     "criteria": {
-      "location": "2021-01-21 19:27:01 +0800"
+      "chorus_consumed": "2021-01-22 00:11:39 +0800"
     },
     "done": true
   },
@@ -23,9 +23,75 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2021-01-22 00:11:45 +0800"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2021-01-22 00:12:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_matter": {
+    "criteria": {
+      "hasEndMatter": "2021-01-21 19:52:04 +0800"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2021-01-22 00:12:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/drawer": {
+    "criteria": {
+      "hasFramingTable": "2021-01-22 00:38:53 +0800"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/furnace": {
+    "criteria": {
+      "hasFurnace": "2021-01-22 00:39:52 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/mana_pool": {
+    "criteria": {
+      "hasManaPool": "2021-01-22 00:40:07 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2021-01-21 19:27:00 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/living_blocks": {
+    "criteria": {
+      "hasBlockLiving": "2021-01-22 00:40:27 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2021-01-21 19:27:01 +0800"
     },
     "done": true
   },
@@ -53,15 +119,45 @@
     },
     "done": true
   },
-  "triumph:levitated/easteregg/root": {
+  "botania:main/manaweave_armor_craft": {
     "criteria": {
-      "location": "2021-01-21 19:27:00 +0800"
+      "head": "2021-01-22 00:32:37 +0800"
     },
     "done": true
   },
-  "tombstone:tutorial/first_grave": {
+  "triumph:levitated/end/tool_station": {
     "criteria": {
-      "coded_trigger": "2021-01-21 19:52:14 +0800"
+      "hasToolStation": "2021-01-22 00:33:02 +0800"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2021-01-22 00:12:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_iron": {
+    "criteria": {
+      "hasEndIron": "2021-01-22 00:57:45 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_log": {
+    "criteria": {
+      "hasEndLog": "2021-01-22 00:10:24 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_copper": {
+    "criteria": {
+      "hasEndCopper": "2021-01-22 01:07:42 +0800"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2021-01-22 00:40:07 +0800"
     },
     "done": true
   }
