@@ -1,0 +1,68 @@
+{
+  "triumph:levitated/end/end_matter": {
+    "criteria": {
+      "hasEndMatter": "2021-01-21 19:52:04 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2021-01-21 19:27:01 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2021-01-21 19:27:01 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_lilly": {
+    "criteria": {
+      "hasEnderLilly": "2021-01-21 19:53:17 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/endstone_shard": {
+    "criteria": {
+      "hasEndShard": "2021-01-21 19:55:49 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/info_grave_key": {
+    "criteria": {
+      "grave_key": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/root": {
+    "criteria": {
+      "location": "2021-01-21 19:27:00 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/root": {
+    "criteria": {
+      "location": "2021-01-21 19:27:00 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2021-01-21 19:27:00 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  }
+}
