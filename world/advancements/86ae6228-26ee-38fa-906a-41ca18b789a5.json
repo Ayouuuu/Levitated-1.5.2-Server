@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "triumph:levitated/end/bone_block": {
+    "criteria": {
+      "hasBoneBlock": "2021-01-24 16:50:48 +0800"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2021-01-21 19:27:01 +0800"
@@ -29,9 +35,21 @@
     },
     "done": true
   },
+  "triumph:levitated/end/grass_seeds": {
+    "criteria": {
+      "hasPastureSeeds": "2021-01-24 22:42:09 +0800"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2021-01-22 00:12:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/altar": {
+    "criteria": {
+      "hasAltar": "2021-01-24 16:39:47 +0800"
     },
     "done": true
   },
@@ -47,9 +65,21 @@
     },
     "done": true
   },
+  "triumph:levitated/end/chorus_flower": {
+    "criteria": {
+      "hasChorusFlower": "2021-01-24 16:45:21 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/end/drawer": {
     "criteria": {
       "hasFramingTable": "2021-01-22 00:38:53 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/blue_lotus": {
+    "criteria": {
+      "hasLotus": "2021-01-24 21:59:32 +0800"
     },
     "done": true
   },
@@ -59,15 +89,39 @@
     },
     "done": true
   },
+  "triumph:levitated/end/water": {
+    "criteria": {
+      "hasAcid": "2021-01-24 22:55:01 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/end/furnace": {
     "criteria": {
       "hasFurnace": "2021-01-22 00:39:52 +0800"
     },
     "done": true
   },
+  "triumph:levitated/end/liquid_mana": {
+    "criteria": {
+      "hasManaBucket": "2021-01-24 16:42:53 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_iron": {
+    "criteria": {
+      "hasEnderIron": "2021-01-24 21:24:54 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/end/mana_pool": {
     "criteria": {
       "hasManaPool": "2021-01-22 00:40:07 +0800"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2021-01-24 22:36:40 +0800"
     },
     "done": true
   },
@@ -80,6 +134,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2021-01-21 19:52:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/alchemy": {
+    "criteria": {
+      "hasAlchemy": "2021-01-24 22:40:17 +0800"
     },
     "done": true
   },
@@ -131,6 +191,12 @@
     },
     "done": true
   },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2021-01-24 22:36:40 +0800"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2021-01-22 00:12:02 +0800"
@@ -149,6 +215,12 @@
     },
     "done": true
   },
+  "triumph:levitated/end/mana_usage": {
+    "criteria": {
+      "hasFertilizer": "2021-01-24 21:53:32 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/resources/end_copper": {
     "criteria": {
       "hasEndCopper": "2021-01-22 01:07:42 +0800"
@@ -158,6 +230,18 @@
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pool": "2021-01-22 00:40:07 +0800"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2021-01-24 22:12:46 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/alfheim": {
+    "criteria": {
+      "Completed advancements.levitated.end.altar.title§r": "2021-01-24 16:39:47 +0800"
     },
     "done": true
   }
