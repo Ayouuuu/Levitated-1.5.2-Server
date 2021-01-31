@@ -69,7 +69,11 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
+<<<<<<< HEAD
             <biomeIds>minecraft:mutated_mesa,minecraft:mushroom_island_shore,minecraft:mutated_savanna,minecraft:forest,minecraft:forest_hills</biomeIds>
+=======
+            <biomeIds>minecraft:mutated_swampland,minecraft:mutated_desert,minecraft:mutated_birch_forest_hills,minecraft:jungle_hills,minecraft:mutated_mesa_clear_rock</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
         <planet DIMID="1010" name="pigpigeon">
@@ -90,7 +94,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>52</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:mutated_mesa_clear_rock,minecraft:deep_ocean,minecraft:mushroom_island_shore,minecraft:mutated_extreme_hills_with_trees,minecraft:mutated_extreme_hills</biomeIds>
+=======
+            <biomeIds>minecraft:mutated_savanna,minecraft:savanna_rock,minecraft:mutated_mesa_rock,minecraft:mutated_mesa_clear_rock,advancedrocketry:volcanicbarren</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <fillerBlock>minecraft:stone</fillerBlock>
         </planet>
         <planet DIMID="1002" name="Frosty">
@@ -132,7 +140,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>70</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:mutated_jungle_edge,advancedrocketry:marsh,minecraft:mutated_mesa_rock,minecraft:mutated_jungle,minecraft:mutated_extreme_hills_with_trees</biomeIds>
+=======
+            <biomeIds>minecraft:mutated_swampland,minecraft:savanna,advancedrocketry:alien_forest,minecraft:mutated_savanna,minecraft:ocean</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>immersivepetroleum:fluid_crude_oil</oceanBlock>
             <fillerBlock>extrautils2:compressedgravel</fillerBlock>
         </planet>
@@ -153,7 +165,11 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
+<<<<<<< HEAD
             <biomeIds>minecraft:mutated_forest,minecraft:savanna_rock,minecraft:birch_forest,minecraft:plains,minecraft:mutated_jungle</biomeIds>
+=======
+            <biomeIds>minecraft:savanna,minecraft:desert,stygian:acidic_plains,minecraft:mutated_redwood_taiga_hills,minecraft:deep_ocean</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
         </planet>
         <planet DIMID="1007" name="AHHHHH">
             <isKnown>false</isKnown>
@@ -194,7 +210,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>70</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:mushroom_island_shore,minecraft:mesa_clear_rock,minecraft:desert_hills,minecraft:desert,minecraft:jungle</biomeIds>
+=======
+            <biomeIds>minecraft:mushroom_island</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>minecraft:lava</oceanBlock>
             <fillerBlock>minecraft:packed_ice</fillerBlock>
         </planet>
@@ -254,7 +274,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>250</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:savanna,minecraft:birch_forest_hills,advancedrocketry:oceanspires,minecraft:smaller_extreme_hills,minecraft:mutated_swampland</biomeIds>
+=======
+            <biomeIds>minecraft:birch_forest,minecraft:mutated_redwood_taiga,minecraft:deep_ocean,minecraft:ocean,minecraft:desert_hills</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
         </planet>
         <planet DIMID="1001" name="Dust Star">
             <isKnown>false</isKnown>
@@ -271,7 +295,11 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
+<<<<<<< HEAD
             <biomeIds>minecraft:ice_flats</biomeIds>
+=======
+            <biomeIds>minecraft:mushroom_island,minecraft:mutated_desert,minecraft:mutated_extreme_hills,minecraft:mesa_clear_rock,minecraft:birch_forest</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>thermalfoundation:fluid_mana</oceanBlock>
         </planet>
         <planet DIMID="6666" name="Kepler-22p">
@@ -375,7 +403,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>64</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:mutated_mesa_clear_rock,minecraft:mutated_desert,minecraft:frozen_ocean,minecraft:jungle,advancedrocketry:marsh</biomeIds>
+=======
+            <biomeIds>minecraft:mutated_mesa_clear_rock,minecraft:desert_hills,advancedrocketry:marsh,minecraft:jungle,minecraft:mutated_desert</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>minecraft:water</oceanBlock>
             <fillerBlock>chisel:cobblestone2:8</fillerBlock>
         </planet>
@@ -397,7 +429,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>74</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:birch_forest,minecraft:desert_hills,minecraft:desert,minecraft:mutated_savanna,advancedrocketry:oceanspires</biomeIds>
+=======
+            <biomeIds>minecraft:mesa_rock,minecraft:birch_forest,minecraft:mutated_redwood_taiga,minecraft:mesa_clear_rock,minecraft:mutated_mesa</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>stygian:endacid</oceanBlock>
             <fillerBlock>stygian:endobsidian</fillerBlock>
         </planet>
@@ -416,7 +452,11 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
+<<<<<<< HEAD
             <biomeIds>minecraft:ice_flats</biomeIds>
+=======
+            <biomeIds>advancedrocketry:crystalchasms</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
         </planet>
         <planet DIMID="1016" name="JumpFish">
             <isKnown>true</isKnown>
@@ -435,7 +475,11 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
+<<<<<<< HEAD
             <biomeIds>advancedrocketry:alien_forest,minecraft:mutated_roofed_forest,minecraft:mutated_extreme_hills,minecraft:desert,minecraft:mutated_birch_forest_hills</biomeIds>
+=======
+            <biomeIds>minecraft:beaches,advancedrocketry:oceanspires,minecraft:desert_hills,minecraft:jungle_hills,minecraft:savanna_rock</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
         </planet>
         <planet DIMID="1017" name="MLXG">
             <isKnown>true</isKnown>
@@ -455,7 +499,11 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>109</seaLevel>
+<<<<<<< HEAD
             <biomeIds>minecraft:forest_hills,minecraft:savanna_rock,minecraft:mutated_extreme_hills_with_trees,minecraft:mesa_rock,advancedrocketry:volcanicbarren</biomeIds>
+=======
+            <biomeIds>minecraft:roofed_forest,minecraft:mesa,minecraft:ocean,minecraft:mutated_mesa_rock,minecraft:mushroom_island</biomeIds>
+>>>>>>> 0c1ccefc32bd0a232f128718e9c94463d0e00be8
             <oceanBlock>techreborn:techreborn_techreborn.carbonfiber</oceanBlock>
             <fillerBlock>appliedenergistics2:sky_stone_block</fillerBlock>
         </planet>
