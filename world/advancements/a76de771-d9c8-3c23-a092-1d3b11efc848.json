@@ -1,31 +1,7 @@
 {
-  "triumph:levitated/resources/end_coal": {
-    "criteria": {
-      "hasEndCoal": "2021-01-31 18:54:59 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/chorus_fruit": {
-    "criteria": {
-      "chorus_consumed": "2021-01-31 13:36:07 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/bone_block": {
-    "criteria": {
-      "hasBoneBlock": "2021-01-31 18:41:15 +0800"
-    },
-    "done": true
-  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2021-01-31 13:17:02 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/ender_lilly": {
-    "criteria": {
-      "hasEnderLilly": "2021-01-31 14:06:26 +0800"
     },
     "done": true
   },
@@ -41,21 +17,9 @@
     },
     "done": true
   },
-  "tombstone:tutorial/cancel_ghostly_shape": {
+  "botania:main/terrasteel_pickup": {
     "criteria": {
-      "coded_trigger": "2021-01-31 13:49:00 +0800"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2021-01-31 13:55:37 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/end_matter": {
-    "criteria": {
-      "hasEndMatter": "2021-01-31 13:18:09 +0800"
+      "terrasteel": "2021-02-09 14:38:03 +0800"
     },
     "done": true
   },
@@ -77,9 +41,9 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
+  "triumph:levitated/end/nether_portal": {
     "criteria": {
-      "has_ingredient": "2021-01-31 13:31:47 +0800"
+      "entered_nether": "2021-02-09 22:30:13 +0800"
     },
     "done": true
   },
@@ -89,33 +53,15 @@
     },
     "done": true
   },
-  "triumph:levitated/end/endoflame": {
+  "triumph:levitated/end/enderdagger": {
     "criteria": {
-      "hasEndoflame": "2021-01-31 14:58:08 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/mana_pool": {
-    "criteria": {
-      "hasManaPool": "2021-01-31 13:58:10 +0800"
+      "hasEnderDagger": "2021-02-09 14:32:32 +0800"
     },
     "done": true
   },
   "triumph:levitated/easteregg/root": {
     "criteria": {
       "location": "2021-01-31 13:17:02 +0800"
-    },
-    "done": true
-  },
-  "tombstone:tutorial/first_grave": {
-    "criteria": {
-      "coded_trigger": "2021-01-31 13:31:47 +0800"
-    },
-    "done": true
-  },
-  "triumph:levitated/end/living_blocks": {
-    "criteria": {
-      "hasBlockLiving": "2021-01-31 13:58:53 +0800"
     },
     "done": true
   },
@@ -134,6 +80,150 @@
   "botania:main/generating_flower": {
     "criteria": {
       "code_triggered": "2021-01-31 14:58:08 +0800"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2021-02-09 14:37:35 +0800"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2021-02-09 14:02:48 +0800"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2021-01-31 13:55:37 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_iron": {
+    "criteria": {
+      "hasEndIron": "2021-02-09 15:05:39 +0800"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2021-02-09 22:27:05 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/terrasteel": {
+    "criteria": {
+      "hasTerraSteel": "2021-02-09 14:38:03 +0800"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2021-01-31 13:58:10 +0800"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2021-01-31 18:48:38 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_coal": {
+    "criteria": {
+      "hasEndCoal": "2021-01-31 18:54:59 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/chorus_fruit": {
+    "criteria": {
+      "chorus_consumed": "2021-01-31 13:36:07 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/bone_block": {
+    "criteria": {
+      "hasBoneBlock": "2021-01-31 18:41:15 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_lilly": {
+    "criteria": {
+      "hasEnderLilly": "2021-01-31 14:06:26 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2021-01-31 13:49:00 +0800"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2021-01-31 13:55:37 +0800"
+    },
+    "done": true
+  },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2021-02-09 15:24:19 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_matter": {
+    "criteria": {
+      "hasEndMatter": "2021-01-31 13:18:09 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2021-01-31 13:31:47 +0800"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2021-02-09 13:00:50 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/endoflame": {
+    "criteria": {
+      "hasEndoflame": "2021-01-31 14:58:08 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_diamond": {
+    "criteria": {
+      "hasEndDiamond": "2021-02-09 14:20:53 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_iron": {
+    "criteria": {
+      "hasEnderIron": "2021-02-09 14:29:59 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/mana_pool": {
+    "criteria": {
+      "hasManaPool": "2021-01-31 13:58:10 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2021-01-31 13:31:47 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/living_blocks": {
+    "criteria": {
+      "hasBlockLiving": "2021-01-31 13:58:53 +0800"
     },
     "done": true
   },
@@ -161,9 +251,15 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
+  "integrateddynamics:root": {
     "criteria": {
-      "flower": "2021-01-31 13:55:37 +0800"
+      "criteria_0": "2021-02-09 12:02:05 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/tool_station": {
+    "criteria": {
+      "hasToolStation": "2021-02-09 14:58:27 +0800"
     },
     "done": true
   },
@@ -179,15 +275,27 @@
     },
     "done": true
   },
-  "botania:main/mana_pool_pickup": {
+  "triumph:levitated/end/string": {
     "criteria": {
-      "pool": "2021-01-31 13:58:10 +0800"
+      "hasString": "2021-02-09 13:03:20 +0800"
     },
     "done": true
   },
-  "botania:main/bauble_wear": {
+  "triumph:levitated/end/fire_rune": {
     "criteria": {
-      "code_triggered": "2021-01-31 18:48:38 +0800"
+      "hasFireRune": "2021-02-09 14:02:55 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/mana_resource": {
+    "criteria": {
+      "hasManaResources": "2021-02-09 14:37:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/nether_knowledge": {
+    "criteria": {
+      "useNetherBook": "2021-02-09 22:29:36 +0800"
     },
     "done": true
   }
