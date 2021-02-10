@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "triumph:levitated/end/stirling_gen": {
+    "criteria": {
+      "hasStirlingGen": "2021-02-10 14:43:38 +0800"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2021-02-09 17:02:19 +0800"
@@ -35,15 +41,15 @@
     },
     "done": true
   },
-  "botania:main/ender_air_make": {
-    "criteria": {
-      "air": "2021-02-09 17:35:11 +0800"
-    },
-    "done": true
-  },
   "triumph:levitated/end/keystone": {
     "criteria": {
       "hasKeystone": "2021-02-09 16:52:54 +0800"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2021-02-09 17:35:11 +0800"
     },
     "done": true
   },
@@ -65,15 +71,15 @@
     },
     "done": true
   },
-  "triumph:levitated/end/gourmaryllis": {
-    "criteria": {
-      "hasGourmaryllis": "2021-02-09 13:01:26 +0800"
-    },
-    "done": true
-  },
   "triumph:levitated/easteregg/root": {
     "criteria": {
       "location": "2021-02-09 11:58:44 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/gourmaryllis": {
+    "criteria": {
+      "hasGourmaryllis": "2021-02-09 13:01:26 +0800"
     },
     "done": true
   },
@@ -83,15 +89,15 @@
     },
     "done": true
   },
-  "botania:main/generating_flower": {
-    "criteria": {
-      "code_triggered": "2021-02-09 13:01:26 +0800"
-    },
-    "done": true
-  },
   "triumph:levitated/end/info": {
     "criteria": {
       "location": "2021-02-09 11:58:44 +0800"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2021-02-09 13:01:26 +0800"
     },
     "done": true
   },
@@ -116,6 +122,12 @@
   "triumph:levitated/end/natura_pylon": {
     "criteria": {
       "hasNaturaPylon": "2021-02-09 15:13:51 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/alloy_smelter": {
+    "criteria": {
+      "hasAlloySmelter": "2021-02-10 14:43:36 +0800"
     },
     "done": true
   },
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "triumph:levitated/end/sag_mill": {
+    "criteria": {
+      "hasSagMill": "2021-02-10 14:43:39 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/end/deep_learner": {
     "criteria": {
       "hasLearner": "2021-02-09 16:29:24 +0800"
@@ -257,6 +275,12 @@
     },
     "done": true
   },
+  "triumph:levitated/end/infinity_dust": {
+    "criteria": {
+      "hasBedrockDust": "2021-02-10 14:43:57 +0800"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2021-02-09 12:26:38 +0800"
@@ -275,15 +299,15 @@
     },
     "done": true
   },
-  "integrateddynamics:root": {
-    "criteria": {
-      "criteria_0": "2021-02-09 12:09:23 +0800"
-    },
-    "done": true
-  },
   "triumph:levitated/resources/root": {
     "criteria": {
       "location": "2021-02-09 11:58:44 +0800"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2021-02-09 12:09:23 +0800"
     },
     "done": true
   },
@@ -296,6 +320,12 @@
   "triumph:levitated/end/end_log": {
     "criteria": {
       "hasEndLog": "2021-02-09 12:00:36 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_copper": {
+    "criteria": {
+      "hasEndCopper": "2021-02-10 14:24:17 +0800"
     },
     "done": true
   },

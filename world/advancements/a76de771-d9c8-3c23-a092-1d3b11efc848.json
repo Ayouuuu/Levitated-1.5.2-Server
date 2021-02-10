@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "triumph:levitated/end/compass": {
+    "criteria": {
+      "hasCompass": "2021-02-10 12:37:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/menril": {
+    "criteria": {
+      "hasMenril": "2021-02-10 12:40:00 +0800"
+    },
+    "done": true
+  },
   "triumph:levitated/end/liquid_mana": {
     "criteria": {
       "hasManaBucket": "2021-01-31 18:38:16 +0800"
@@ -86,6 +98,12 @@
   "botania:main/spark_craft": {
     "criteria": {
       "spark": "2021-02-09 14:37:35 +0800"
+    },
+    "done": true
+  },
+  "botania:main/manaweave_armor_craft": {
+    "criteria": {
+      "feet": "2021-02-10 12:55:15 +0800"
     },
     "done": true
   },
@@ -176,6 +194,12 @@
   "triumph:levitated/end/end_matter": {
     "criteria": {
       "hasEndMatter": "2021-01-31 13:18:09 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/bonsai": {
+    "criteria": {
+      "hasBonsai": "2021-02-10 12:30:31 +0800"
     },
     "done": true
   },
